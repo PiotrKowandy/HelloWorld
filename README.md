@@ -1,3 +1,3 @@
 # HelloWorld
 
-<img src="https://travis-ci.org/PiotrKowandy/HelloWorld.svg?branch=master" alt="build:started">
+<img src="https://travis-ci.org/PiotrKowandy/HelloWorld" alt="build:started">
