@@ -1,3 +1,3 @@
 project (HelloWorld)
 	
-add_executable (main.cpp)
+add_executable (TutorialTest main.cpp)
